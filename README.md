@@ -2,7 +2,7 @@
 A Basic To Do List App for Android
 
 Tasks Screen
-![Image](https://github.com/ThienLu/todoApp/blob/assets/assets/Tasks.png?raw=true)
+<img src="https://github.com/ThienLu/todoApp/blob/assets/assets/Tasks.png?raw=true" width="100" height="100">
 
 Create Tasks Screen
 ![Image](https://github.com/ThienLu/todoApp/tree/assets/assets/Create.png?raw=true)
