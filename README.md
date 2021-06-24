@@ -2,13 +2,17 @@
 A Basic To Do List App for Android
 
 Tasks Screen
-<img src="https://github.com/ThienLu/todoApp/blob/assets/assets/Tasks.png?raw=true" width="100" height="100">
+<br>
+<img src="https://github.com/ThienLu/todoApp/blob/assets/assets/Tasks.png?raw=true" width="100" height="400">
 
 Create Tasks Screen
-![Image](https://github.com/ThienLu/todoApp/tree/assets/assets/Create.png?raw=true)
+<br>
+<img src="https://github.com/ThienLu/todoApp/blob/assets/assets/Create.png?raw=true" width="100" height="400">
 
 Edit Tasks Screen
-![Image](https://github.com/ThienLu/todoApp/tree/assets/assets/Edit.png?raw=true)
+<br>
+<img src="https://github.com/ThienLu/todoApp/blob/assets/assets/Edit.png?raw=true" width="100" height="400">
 
 Delete Tasks Screen
-![Image](https://github.com/ThienLu/todoApp/tree/assets/assets/Delete.png?raw=true)
+<br>
+<img src="https://github.com/ThienLu/todoApp/blob/assets/assets/Delete.png?raw=true" width="100" height="400">
